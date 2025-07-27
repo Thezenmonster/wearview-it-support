@@ -17,7 +17,7 @@ A full-stack web application for managing IT support tickets in educational inst
 - HTML/CSS
 
 ## Timeline
-Built in 7 days as part of university assignment - received 100% grade.
+Built in 7 days
 
 ## Setup
 1. Import `database.sql` to your MySQL server
